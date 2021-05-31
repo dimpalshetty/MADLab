@@ -1,3 +1,2 @@
-<h2> Mobile Application Development Lab </h2>
+<h2> Visiting Card </h2>
 
-A repository for all the experiments in MAD Lab.
