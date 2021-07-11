@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         btn0=findViewById(R.id.btn0);
         btn1=findViewById(R.id.btn1);
-        btn2=findViewById(R.id.btn2);
+        btn2=findViewById(R.id.btn2);                         //Creating buttons
         btn3=findViewById(R.id.btn3);
         btn4=findViewById(R.id.btn4);
         btn5=findViewById(R.id.btn5);
